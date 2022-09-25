@@ -1,6 +1,13 @@
 class Graph:
-    def UCS():
-        pass
+    def __init__(self):
+        self.graph = graph
+
+    def UCS(graph, startNode, endNode):
+        opened, closed = [], []
+
+        print("Uniform Cost Search:")
+        return path
 
     def DDFS(range):
-        pass
+        print("Iterative Deepening DFS:")
+        return path
