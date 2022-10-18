@@ -76,9 +76,9 @@ def draw(graph):
     edges = [(u, v) for (u, v, d) in graph.edges(data=True)]
     edge_labels = nx.get_edge_attributes(graph, "weight")
 
-    nx.draw_networkx_edges(graph, pos, edgelist=edges, width=2)
+    nx.draw_networkx_edges(graph, pos, edgelist=edges, width=1)
     nx.draw_networkx_nodes(graph, pos, node_size=200)
-    nx.draw_networkx_labels(graph, pos, font_size=12, font_family="SF Pro Display")
+    nx.draw_networkx_labels(graph, pos, font_size=12, font_family="serif")
     nx.draw_networkx_edge_labels(graph, pos, edge_labels)
 
     plt.show()
@@ -160,11 +160,11 @@ ddfs_list = []
 
 
 # function used to visualize the graph uncomment to see the graph weights and links
-# draw(DG)
+draw(DG)
 
-# Iterative DDFS
-ddfs(DG, "A", "N", 10)
-# reversing the list using a negative step
-print(ddfs_list[::-1])
+# # Iterative DDFS
+# ddfs(DG, "A", "N", 10)
+# # reversing the list using a negative step
+# print(ddfs_list[::-1])
 
-ucs(DG, "A", "N")
+# ucs(DG, "A", "N")
