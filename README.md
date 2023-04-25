@@ -24,6 +24,8 @@ The 1st digit after the type of resource is the year. (eg: Class Exercise 3.3 wo
 
 - Class Exercise 4.1: Differece between Classical and Statistical Methods in Machine Learning. [Logical Regression vs Decision Trees]
 
+- Class Exercise 4.2: Imvestigating the effect that outliers have on Generative Models vs Discriminative Models.
+
 ### Make Up Lab
 
 - Language Identification using Naive Bayes
