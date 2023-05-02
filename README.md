@@ -26,6 +26,8 @@ The 1st digit after the type of resource is the year. (eg: Class Exercise 3.3 wo
 
 - Class Exercise 4.2: Imvestigating the effect that outliers have on Generative Models vs Discriminative Models.
 
+- Class Exercise 4.3: Linear Regression and Gradient Descent
+
 ### Make Up Lab
 
 - Language Identification using Naive Bayes
