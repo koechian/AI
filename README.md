@@ -2,11 +2,11 @@
 
 A repo for tasks, assignments and everything Artificial Intelligence and Machine Learning
 
-The 1st digit after the type of resource is the year. (eg: Class Exercise 3.3 would stand for a class exercise I did in 3rd year and it is the 3rd class exercise)
+The 1st digit after the type of resource is the year. (eg: Class Exercise 3.3 would stand for a class exercise I did in 3rd year, and it is the 3rd class exercise)
 
 ## Labs
 
-- Gym Lab: A lab that fammiliarises the Gym module.
+- Gym Lab: A lab that familiarizes the Gym module.
 
 - Lab 3.1: BFS and DFS Traversal of a graph im Python.
 
@@ -20,13 +20,21 @@ The 1st digit after the type of resource is the year. (eg: Class Exercise 3.3 wo
 
 - Class Exercise 3.2: Natural Language Processing
 
-- Class Exercise 3.3: Vector Comparision using TFID
+- Class Exercise 3.3: Vector Comparison using TF-ID
 
-- Class Exercise 4.1: Differece between Classical and Statistical Methods in Machine Learning. [Logical Regression vs Decision Trees]
+- Class Exercise 4.1: Difference between Classical and Statistical Methods in Machine Learning. [Logical Regression vs Decision Trees]
 
-- Class Exercise 4.2: Imvestigating the effect that outliers have on Generative Models vs Discriminative Models.
+- Class Exercise 4.2: Investigating the effect that outliers have on Generative Models vs Discriminative Models.
 
 - Class Exercise 4.3: Linear Regression and Gradient Descent
+
+- Class Exercise 4.4: Ridge Regression
+
+- Class Exercise 4.5: Decision Trees, Pruning and Random Forest
+
+- Class Exercise 4.6: Sentence Similarity using KMeans
+
+- Class Exercise 4.7: Gym Agent Simulations
 
 ### Make Up Lab
 
