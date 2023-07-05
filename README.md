@@ -38,6 +38,8 @@ The 1st digit after the type of resource is the year. (eg: Class Exercise 3.3 wo
 
 - Class Exercise 4.8: ReLu and Convolution Layers for Image Classificaition
 
+- Class Exercise 4.9: False news detection using a Neural Network and NLP
+
 ### Make Up Lab
 
 - Language Identification using Naive Bayes
