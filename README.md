@@ -40,6 +40,8 @@ The 1st digit after the type of resource is the year. (eg: Class Exercise 3.3 wo
 
 - Class Exercise 4.9: False news detection using a Neural Network and NLP
 
+- Class Exercise 4.10: Text Classification using a Neural Network and NLP as well as Model Deployment
+
 ### Make Up Lab
 
 - Language Identification using Naive Bayes
