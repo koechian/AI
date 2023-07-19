@@ -14,6 +14,14 @@ The 1st digit after the type of resource is the year. (eg: Class Exercise 3.3 wo
 
 - Lab 3.3: Implementing Natural Language Processing to classify text
 
+- Lab 4.1: Implementing Gradient Descent on random samples of data and observing MSE, Bias and Slope
+
+- Lab 4.2: Feature Selection using Lasso and Ridge Regression
+
+- Lab 4.3: Implementing Q-Learning
+
+- Lab 4.5: Implementing a Neural Network to Regress data.
+
 ### Class Exercises
 
 - Class Exercise 3.1: Classification and Performance Matrix
